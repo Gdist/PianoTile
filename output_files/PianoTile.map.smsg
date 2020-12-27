@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at check.v(10): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/16.1/PianoTile/check.v Line: 10
+Warning (10268): Verilog HDL information at PianoTile.v(54): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/16.1/PianoTile/PianoTile.v Line: 54
+Info (10281): Verilog HDL Declaration information at PianoTile.v(5): object "sevenDP2" differs only in case from object "SevenDP2" in the same scope File: C:/intelFPGA_lite/16.1/PianoTile/PianoTile.v Line: 5
+Info (10281): Verilog HDL Declaration information at PianoTile.v(5): object "sevenDP1" differs only in case from object "SevenDP1" in the same scope File: C:/intelFPGA_lite/16.1/PianoTile/PianoTile.v Line: 5
+Info (10281): Verilog HDL Declaration information at PianoTile.v(5): object "sevenDP0" differs only in case from object "SevenDP0" in the same scope File: C:/intelFPGA_lite/16.1/PianoTile/PianoTile.v Line: 5
